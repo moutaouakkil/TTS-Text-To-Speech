@@ -9,7 +9,7 @@ Written by: Othmane Moutaouakkil ([WHOAMI2507](https://github.com/whoami2507))
 
 The Text-to-Speech (TTS) enables developers to synthesize natural-sounding speech with many voices, available in multiple languages and variants. It provides a high fidelity audio. With this easy-to-use script, you can create lifelike interactions with your users, across many applications and devices.
 
-![Overview of a typical TTS system](https://upload.wikimedia.org/wikipedia/commons/b/b5/TTS_System.svg)
+![Overview of a typical TTS system](https://github.com/whoami2507/TTS-Text-To-Speech/blob/master/TTS_System.png)
 
 
 # Supported platforms
