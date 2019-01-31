@@ -1,4 +1,4 @@
-# firstly install [tabulate module] by typing: pip install module (on windows)
+# firstly install [tabulate module] by typing: pip install module (on all Operating Systems)
 from tabulate import tabulate
 
 
