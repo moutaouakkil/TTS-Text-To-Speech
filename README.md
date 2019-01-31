@@ -20,13 +20,13 @@ The Text-to-Speech (TTS) enables developers to synthesize natural-sounding speec
 *Linux*
 ```bash
 $ pip install gtts
-$ ./TTS - Text-To-Speech.py
+$ ./TTS-Text-To-Speech.py
 ```
 
 *Mac OS X*
 ```bash
 $ pip install gtts
-$ ./TTS - Text-To-Speech.py
+$ ./TTS-Text-To-Speech.py
 ```
 
 *Windows*
