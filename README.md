@@ -18,6 +18,10 @@ The Text-to-Speech (TTS) enables developers to synthesize natural-sounding speec
 * Windows
 
 
+# Requirements
+install the latest version of [Python 3](https://www.python.org/downloads/)
+
+
 # Installation
 *Linux*
 ```bash
